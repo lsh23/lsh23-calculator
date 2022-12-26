@@ -1,6 +1,6 @@
 [project]
 name = "lsh23-calculator"
-version = "0.0.1"
+version = "0.0.2"
 description = "A deploy test package"
 authors = [
   { name="lsh23", email="sehyeong.dev@gmail.com" },
