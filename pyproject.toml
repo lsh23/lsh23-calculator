@@ -14,6 +14,10 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 
+dependencies = [
+  "pytest",
+]
+
 [project.urls]
 "Homepage" = "https://github.com/lsh23/lsh23-calculator"
 "Bug Tracker" = "https://github.com/lsh23/lsh23-calculator/issues"
